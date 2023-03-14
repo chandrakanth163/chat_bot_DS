@@ -1,5 +1,7 @@
-
 college name: Srm college of agriculture and science
+
+
+
 SRMIST in support of the Government’s initiative towards doubling farmers income has set up this College of Agricultural and Horticulture Sciences
 
 Undergraduate programme B.Sc. (Hons) Horticulture was introduced from 2018-19 academic year and B.Sc. (Hons) Agriculture is added from 2019-20. More UG, PG and Diploma programmes in other fields of agricultural sciences will be initiated in a phased manner.
@@ -316,4 +318,490 @@ Duration : 2 Year
 
 M.Tech – Data Science (Great Learning)
 Duration : 2 Year | Annual Fees : ₹ 1,25,000
+<<<<<<< HEAD
 >>>>>>> 2f4f56810a883d5ad3081feb348e69d145c8b106
+=======
+
+
+Mohammed Fawaz:
+
+College:Department of Biomedical Engineering
+
+About The Department:
+
+SRMIST is one of the few institutions in India that offers a B.Tech., M. Tech., and PhD programme in Biomedical Engineering that has been in existence for more than 15 years. Biomedical engineering is a consortium of biologists and engineers collaborating to develop medical devices, healthcare technologies, and services that benefit humanity. Biomedical engineering at SRM, was established in 2004 with an active clinical partnership with SRM Medical College and Research Institute. The department, since its inception, has actively participated in diversified research and teaching and has grown to become one of the best institutions in the country for the program. The department is well equipped with state-of-the-art research laboratories in the areas of Bioimaging, Biomaterials, Biomechanics, Bio signal and Medical Image processing. Students are motivated for active industrial collaboration through the industry associated “Centre for Biomedical Research and Healthcare Innovation (CBRHI)”. Our students have taken a few courses or completed projects at any one of our partner institutions abroad (Harvard, NTU, etc.), under the Semester Abroad Program (SAP). Connecting past to present, our students are placed in Top MNCs, Biomedical Industries, Government and Private Hospitals, IT Industries, and Research laboratories.
+
+Vision:
+
+Implement Science and Engineering principles in the broad area of Medical Instrumentation
+Improve Healthcare delivery to humans in association with physicians and surgeons
+Translate Biomedical Engineering research into applications that will advance and improve Healthcare.
+
+Mission:
+
+Built on a strong foundation of Basic Science and Engineering, the mission is to educate students in diverse fields of Biomedical Engineering
+
+Work towards state-of-the-art Biomedical Engineering research and development through an interdisciplinary curriculum.
+
+Apply knowledge about design in the development of enabling technologies for the improvement of human health.
+
+Promote Biomedical Engineering research with ethics in the development of novel and innovative technologies.
+
+Achieve academic excellence and stay research driven to match national and international standards.
+
+
+Programs Offered:
+
+B.Tech – Biomedical Engineering
+Duration:4 Years | Annual Fees : ₹ 2,50,000
+
+M.Tech – Biomedical Engineering
+
+Duration:2 Years | Annual Fees : ₹ 1,60,000
+
+
+Department of Fashion Designing
+
+About The Department:
+
+Fashion Designing department has well equipped lab facilities. Pattern Making & Garment Construction lab, Illustration lab, Computer Aided Designing lab and Draping lab are all updated labs of the department. Pattern making lab is equipped with advanced power machines and over lock machines along with customized pattern table and sitting stools. The draping lab is furnished with body forms, female mannequins, male mannequins and kids mannequins. The illustration lab has customized table and chair for the students to make comfortable sketching. The computer aided designing lab has advanced designing software for the students to make computerized sketches. The department has been continuously organizing numerous guest lectures and seminars for the benefit of the students. Most of the guest speakers are from the Designing Industry. They are designers, stylist, and entrepreneurs. And also the department invites guest speakers from retailing industry and professors from various college. Recently the department organized a national level guest lecture. The guest speaker was Karun Raman, fashion choreographer, fashion blogger who is a familiar face and celebrity in the media and modeling industry. The department organized another national level guest lecture. The guest speaker for the event was Dr. C. Prakash, Director, IIHT, West Bengal. The department has organized few notable workshops in the past pertaining to Digital Designing, Doll Dress Making, Fashion Illustration, Metal Craft Work, Blazer Sewing and Finishing. 
+
+Vision/Mission:
+
+To provide rigorous standards for design knowledge, illustration skills, industrial and professional behaviour.
+
+To contribute to a designer society through teaching (with classrooms, labs, fashion studios, designing through software and service.
+
+To value a collaborative, collegial and cooperative teaching and learning community composed of diverse students.
+
+Programs Offered:
+UnderGraduate:
+
+B.Sc. Fashion Designing
+Duration : 3 Years | Annual Fees : ₹ 65,000
+
+Faheem Zubair
+
+Department of Biotechnology – Science and Humanities
+
+About The Department:
+The Department of Biotechnology, CSH, SRMIST, was established in the year 2003, with the objective of creating a research-oriented division with inter- disciplinary ideas and has emerged as a hub for state-of-the-art research in the field of Biotechnology. It is committed to imparting a holistic education for the development of students to excel in higher education and research. The Department has a strong commitment to excellence in undergraduate and postgraduate education and offers B.Sc. M.Sc. and PhD programs in Biotechnology. It also offers a flexible curriculum that puts an emphasis on both theoretical and hands-on experience for the students. The Department consists of nine research supervisors who are carrying out cutting edge research in various fields of Biotechnology like stem cell biology, molecular immunology, microbiology, neurogenetics, animal biotechnology, and plant biotechnology. It takes pride in sending-  students for the semester abroad program (SAP) to reputed universities worldwide and  encourages students to perform research related activities from the undergraduate level. The Department organizes workshops and FDPs regularly to keep abreast with the latest advancements in Biotechnology and is constantly striving for excellence in teaching and research.
+
+Vision:
+Creating the most conducive environment for imparting quality education in Biotechnology.
+Contributing effectively to produce globally competent quality professionals in the field of life science.
+
+Mission:
+Impart students with the essential knowledge and skills required for a successful career in life sciences.
+Instil confidence in students to take up new challenges by grooming them appropriately.
+Inculcate a sense of commitment to professional ethics, and moral values with an emphasis on team work and leadership qualities.
+
+Programs Offered:
+
+Undergraduate:
+The undergraduate program iparts students with mastery in the field of Biotechnology.
+
+Courses Offered-
+B.sc. Biotechnology- 
+Duration: 3 years | Annual Fees: Rs85,000
+BS in biotechnology- 
+Duration: 4 years | Annual Fees: Rs95,000
+
+Postgraduate:
+The department's ranges of postgraduate programs include core courses as well as elective, independent study.
+
+Courses Offered-
+M.Sc. Biotechnology- 
+Duration: 2 years | Annual Fees: Rs1,00,000
+
+
+Department of Computer Applications
+
+About The Department:
+The Department of Computer Applications at SRM Institute of Science and Technology has always been on the top as the paradigm of quality with the most modern curriculum and syllabus. Ever since its inception in 2005, the department has attained unprecedented heights and stands on par excellence among its counterparts in Tamil Nadu and India. The Department has proven its academic prowess and success with an extensive range of courses offered both at the Undergraduate and Postgraduate levels. The Department offers BCA, BCA Data Science at the UG level, and MCA, M.Sc Applied Data Science at the PG level.
+Consistently ranked among the top Computer Applications programs in India, the Computer Applications Department at SRM offers a flexible curriculum designed to allow students to explore their own interests in increasing depth.  The curriculum is revamped to suit the industry needs with an emphasis on theory and application that demarcates SRM Computer Applications from most colleges.
+Being one of the largest departments in the College of Science and Humanities, populated with an eclectic mix of 700+ students from different parts of the country, and 15+ accomplished professors, immense strides are made at every level to give an outstanding student experience.
+Our close ties to industry, coupled with our commitment to research and education, ensure that students get a rigorous, relevant, and broad education. The most in-demand data science programme – M.Sc Applied Data Science and BCA Data Science in collaboration with industry partners grabbed the spotlight in the department.
+Our world-class laboratory with the judicious integration of technologies in classrooms enables the students to be in close proximity to the latest and coolest technologies. The department also enlivens our curriculum, provides many research and summer job opportunities for our students, and makes this a very exciting place to study Computer Applications.
+To quench the thirst for knowledge in Coding, the Department has initiated a Programmers Club- “LiveWires_” for the aspiring developers to plunge into software engineering activities. Virtual Labs, E-Lab, E-Skill, and E-Verify for the students to practice on Laboratory Courses with umpteen number of questions which changes their mobile devices as Learning Devices. Our department maintains excellent Placement and Internship Records.
+
+Programs Offered:
+
+Undergraduate:
+The undergraduate program imparts students with mastery in the filed of computer science.
+
+Courses Offered-
+B.C.A Computer Applications-
+Duration: 3 years | Annual Fees: Rs85,000
+B.C.A Data Science- 
+Duration: 3 years | Annual Fees: Rs95,000
+
+Postgraduate:
+the department's ranges if postgraduate programs include core courses as well as elective, independent study.
+
+Courses Offered-
+M.C.A. Computer Applications-
+Duration: 2 years | Annual Fees: Rs1,00,000
+M.Sc. Applied Data Science- 
+Duration: 2 years | Annual Fees: Rs1,00,000
+
+pradeep kumar:
+
+college name: Srm college of agriculture and science.
+
+
+Department: Department of Civil Engineering
+
+The Department of Civil Engineering at Kattankulathur is one of the pioneer departments of the Institute, established in 1985. 
+The department has excelled in the areas of Academics, Research, Cultural and sports, developing a reputation up to global standards.
+
+
+Vision:
+Our department’s vision is to become a frontier in various fields of Civil Engineering education and research to meet national and global challenges in accordance with societal needs. 
+
+
+Mission:
+
+##And our missions are: to move up through international alliances and collaborative initiatives in civil engineering to achieve global excellence; To accomplish a process to advance knowledge 
+in a rigorous research environment related to civil engineering and allied disciplines; To attract and build people in a rewarding and inspiring environment by fostering freedom, empowerment, 
+creativity, and innovation.
+
+##The department possesses eminent, experienced, and dedicated teaching faculty with teaching and research excellence who produce quality publications arising out of research and consultancy 
+activity in their field of interest.
+
+##The department also possesses excellent infrastructure facilities on par with international standards, enabling us to produce highly calibre Civil Engineers.
+
+
+Undergraduate programs offered:
+
+B.Tech – Civil Engineering
+Duration : 4 Years | Annual Fees : ₹ 2,50,000
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+B.Tech – Civil Engineering with Computer Applications
+Duration : 4 Years | Annual Fees : ₹ 2,50,000
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+Post Graduate courses offered:
+
+M.Tech – Construction Engineering & Management
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+M.Tech – Environmental Engineering
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+M.Tech – Geotechnical Engineering
+Duration: 2 Years 
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+M.Tech – Remote Sensing & Geographics Information System
+Duration: 2 Years
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+M.Tech – Structural Engineering
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+Professor & Head of Department: Dr. P.T. Ravichandran
+
+college name: Srm college of agriculture and science.
+
+Department: Department of Visual Communication.
+
+The Department of Visual communication is one of the very few private institutes in the country offering full-fledged 
+Post – Graduate and Graduate programs with advanced infrastructure, a comprehensive curriculum, skilled and experienced
+Faculty, placement process, International exchange programs, lively co-curricular activities like theatre, dance, music,
+cinema and painting with an ambiance that encourages students to scale new heights in their areas of interest with a firm
+root in social sensitivity. It has emerged as one of the leading Communication and media institutes in the country with an
+international reputation. The program is designed to provide a holistic design education that incorporates technology, 
+aesthetics, and integrated use of various media. The course aims at giving an opportunity to the budded youths to get 
+trained as professionals in the media world.
+
+Courses in Visual Communication examine the nature, use, and role of messages among individuals, small groups, organizations,
+and society in whatever form they assume – oral, written, visual, mediated, and technological communication. The course ensures
+that students are trained in both traditional and modern technology as practice and in theory as well.
+
+
+Vision:
+
+To develop a knowledge center to impart innovative hands-on training in Visual Media, emphasizing alternative perspectives and 
+aesthetic presentation of realities using international media strategies.
+
+
+Mission:
+
+To provide a broad spectrum of visual media to enable students to make meaningful career choices.
+
+To train students towards a better understanding of media by sharpening their creativity.
+
+To facilitate the use of alternative media to bring positive changes in society.
+
+To bring down the gap between the academia and media industry.
+
+
+Undergraduate programs offered:
+
+
+B.Sc. Visual Communication
+Duration : 3 Years | Annual Fees : ₹ 1,05,000
+Assistant Professor & Head of the Department: Dr. Rajesh. R
+
+
+Postgraduate programs offered:
+
+
+M.Sc. Visual Communication
+Duration : 2 Years | Annual Fees : ₹ 1,00,000
+Assistant Professor & Head of the Department: Dr. Rajesh. R
+
+
+Ph.D programs offered: 
+
+
+Ph.D. Visual Communication
+
+HADIQ SHEHEER
+
+Department of Aerospace Engineering
+
+About The Department
+
+The Department of Aerospace Engineering is the youngest and most exciting department in the School of Mechanical Engineering, established in the year 2007. It offers a four -year degree in B.Tech Program. The department also offers M.Tech. (Research) and doctoral programs in various areas of aerospace engineering. The department holds a decent number of full-time doctoral research scholars. The faculties and students of our department have published a good number of research publications, and patents and conducted various activities like FDPs, webinars, and guest lectures. The department also organizes World Space Week every year. Highly qualified and dedicated faculties on board to groom the young minds with a passion for Aerospace Engineering. The department has always attracted the brightest students who have great passion for creativity and innovation. It has well-equipped laboratories. Our Aerospace hangar houses Cessna, Eurocopter, Kiran aircraft, Airbus A300 simulator, different types of engines, and landing gear components. Aerodynamics Lab comprises of subsonic & supersonic wind tunnel, sophisticated high-speed jet facility, smoke tunnel, boundary layer tunnel, etc; Aircraft Structures lab; Aero Fluid Mechanics Lab; Computational Lab & Advanced Computational Lab; Material Testing lab; Avionics lab and Dr. APJ Abdul Kalam Memorial Propulsion Laboratory, exclusively for studies on various propellants.
+
+Established:-2007
+Faculty & Staff:-31
+Students:-353
+Publications:-239
+Funded Projects:-3
+Patent(Published):-7
+Ph.D (Awarded):-2
+
+
+Vision
+
+Inspire and nurture the next generation of Aerospace engineers and scientists; inculcate knowledge in ethics and humanity.
+
+Mission
+
+To educate students in the fundamental disciplines of Aerospace Engineering such as Aerodynamics, Aerospace structures and materials, Aerospace propulsion, flight mechanics, Space mechanics, Avionics.
+
+To impart knowledge, methodology, tools of design and the synthesis of fundamental aerospace disciplines necessary for the students to carry out the design of an aerospace vehicle or system.
+
+To establish Centre of Excellence for research in the field of Aerodynamics, and Aerospace structures and materials, Aerospace propulsion.
+
+To provide world class training and skills to every Aerospace students to add value and shine in a Global market.
+
+Programs Offered
+
+UNDERGRADUATE
+B.Tech – Aerospace Engineering
+Duration : 4 Years
+Annual Fees : ₹ 3,75,000
+
+Mode Of Delivery
+Regular
+
+Program Type
+Full Time
+
+REASEARCH
+Ph.D
+Ph.D in Aerospace Engineering (Full Time)
+Duration : 3-5 years
+Annual Fees : ₹ 30,000
+
+Mode Of Delivery
+Regular
+
+Program Type
+Full Time
+
+
+Placement
+
+The Department of Aerospace Engineering gives utmost importance to students placements in reputed industries and corporate. We have a dynamic placement team that coordinates with the centralized career center to facilitate the placement process. Our department has shown a drastic improvement in placements over the past few years. We also aim to achieve complete placement for all the enrolled students in the subsequent years.
+
+The students of Aerospace Engineering have been finding coveted positions in reputed corporate and business houses that visit the campus every year. The salary packages are comparably high, on par with international standards. The excellent infrastructure of the department, guidance by experienced faculty members, and hands-on training sessions for industry-driven skills foster the students in all aspects of their placements.
+
+Apart from campus placements, our students receive job offers from defense sectors viz Indian Air Force, Indian Navy, Aeronautical Development Establishment (ADE), Centre for Military Airworthiness and Certification (CEMILAC), Gas Turbine Research Establishment (GTRE), and other government space/aviation establishments like Indian Space Research Organization (ISRO), Hindustan Aeronautics Limited (HAL), National Aerospace Laboratories (NAL), etc. Our alumni are working in reputed organizations like Airbus, Rolls-Royce, European Space Agency (ESA), etc. With the explosive growth in civil aviation, satellite communications, and space exploration, there will be a constant demand for graduate aerospace engineers.
+
+
+Dream offers:-22     
+Job Placements:-73%
+Highest Package Offered:-38.5LPA
+Companies Visited:-110+
+Alumni across the Globe:-1100+
+
+
+Faculty
+
+Teaching environment and quality are central to SRMIST’s capability profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus for Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs therefore benefiting our students.
+
+Faculty Members
+Dr. Ganapathy Subramanian L R
+Professor & HOD
+
+Dr. Selvakumaran T
+Associate Professor
+Subject Aerodynamics, Solid mechanics, Aircraft Structures and Solid propellant combustion
+
+Dr. Senthilkumar S
+Associate Professor
+Subject Computational Fluid Dynamics, Aerodynamics, Heat Transfer
+
+Dr. Sivakumar S
+Associate Professor
+Vibrations and Elements of Aero elasticity, Aircraft Structures, Finite Element Method, Helicopter Maintenance, Aircraft Systems and Instruments etc.
+
+Dr. Allwyn K
+Assistant Professor
+Aerospace Engineering
+
+Dr. Aravindh Kumar S M
+Research Assistant Professor
+Gas Dynamics, Aerodynamics
+
+Dr. Gurusideswar S
+Assistant Professor
+Aerospace Engineering - Composite Structures
+
+Dr. Kannan B T
+Research Assistant Professor
+Aerospace Engineering - Aerodynamics
+
+Dr. Kuchimanchi K Bhardwaj
+Assistant Professor
+Aerodynamics
+
+Dr. Malaikannan G
+Research Assistant Professor
+Reentry Aerodynamics, Hypersonic Aerothermodynamics, Rarefied Gas Dynamics
+
+Dr. Mohamed Arif R
+Assistant Professor
+Aerospace Engineering
+
+Dr. Saravanakumar K
+Assistant Professor
+Aerospace Engineering – Materials & Structures
+
+Dr. Saravanan G
+Assistant Professor
+Aerospace Engineering
+
+Dr. Vignesh Kumar M
+Assistant Professor
+Aerospace Engineering
+
+Mr. Ravichandrakumar K B
+Assistant Professor
+CFD application on Aerodynamics
+
+Mr. Vinayak Malhotra
+Assistant Professor
+Aerospace Engineering
+
+Mr. Bharat N
+Assistant Professor
+Aerospace Engineering
+
+Mr. Iynthezhuthon K
+Assistant Professor
+
+Mr. Mahendra Perumal G
+Assistant Professor
+Aerospace Engineering
+
+Mr. Rajkumar S
+Assistant Professor
+Aerospace Engineering
+
+
+Infrastructure
+
+The Department of Aerospace Engineering has laboratories catering to students, scholars and faculty members for their academic and research activities. Modern computing facilities are also available for students towards performing Computer Aided Design and Computational Analysis (Structural Analysis / Fluid Dynamics / Combustion).
+
+Advanced Computing Lab
+Aero Fluid Dynamics Laboratory
+Subsonic Aerodynamics Laboratory
+Supersonic Aerodynamics Laboratory
+Aerospace Structures Laboratory
+Computational Laboratory
+Aerospace Propulsion Laboratory
+Material Testing Laboratory
+Avionics Laboratory
+
+
+Contact Us
+Department Of Aerospace Engineering
+Main Campus, SRM Institute of Science and Technology,
+(Opp. to Potheri Railway Station)
+Kattankulathur, Chengalpattu District, Tamil Nadu – 603203
+
+044 27417824/ 044 27417864
+hod.aero.ktr@srmist.edu.in
+
+
+
+
+L.L.M. International Trade Law
+
+Campus:-Kattankulathur (KTR)
+Sanctioned Intake:-25
+Annual Fees:-INR 85,000
+Duration:-1 Year
+
+Programme Educational Objective
+1)To provide the students an-depth dynamic and applied knowledge of the regulatory framework of the multilateral trading system, covering both the institutional and substantive law of the WTO.
+
+2)To develop various skills among the students that would enable them to critically examine the operation of international trade law in practical contexts.
+
+3)To motivate the students to explore and understand the complex issues emerging in the area of international trade.
+
+4)To prepare the students who will achieve peer- recognition effectively as individuals in Bar or in Judiciary to make decision.
+
+Ganesh Ram:
+
+# Science And Humanities
+
+"College of Science and Humanities (CSH) offers an education model that emphasizes Critical Thinking, Collaboration, and Problem-Solving. This in turn provides you with the knowledge and skills to achieve your goals and earn a position of leadership within your chosen profession."
+
+
+>Welcome Message: The Department of Computer Applications is dedicated for ensuring great careers for students joined for pursuing Undergraduate or Postgraduate. The excellent infrastructure, teaching faculty of the best kind of the Department ensuring quality education such as interaction among students, parents, and staff, along with a Training and Placement Cell ensures a bright future to its students. We strongly encourage innovation in research, in teaching, and in service to the profession, the local community, and industry. Our faculty and students are constantly striving to excel and to advance the state of the art in Computer Applications.
+
+>About The Department: The Department of Computer Applications at SRM Institute of Science and Technology has always been on the top as the paradigm of quality with the most modern curriculum and syllabus. Ever since its inception in 2005, the department has attained unprecedented heights and stands on par excellence among its counterparts in Tamil Nadu and India. The Department has proven its academic prowess and success with an extensive range of courses offered both at the Undergraduate and Postgraduate levels. The Department offers BCA, BCA Data Science at the UG level, and MCA, M.Sc Applied Data Science at the PG level.
+
+>Specialization: To quench the thirst for knowledge in Coding, the Department has initiated a Programmers Club- “LiveWires_” for the aspiring developers to plunge into software engineering activities. Virtual Labs, E-Lab, E-Skill, and E-Verify for the students to practice on Laboratory Courses with umpteen number of questions which changes their mobile devices as Learning Devices. Our department maintains excellent Placement and Internship Records.
+
+--Science and Humanities Dean :Dr. A. Duraisamy
+--Associate Professor and Head :Dr. Albert Antony Raj S
+
+
+>College name:Srm University KTR
+>Science And Humanities
+>Post Graduate:MBA 
+>Deparment:Arfiticial Intelligence and Data Science
+>Duration: 2Years
+>Annual Fees: 3,85,000
+
+
+
+# SCHOOL OF LAW
+
+>> Our Programs: Programs offered includes PG as per the guidelines of regulatory bodies. Strong curriculum and pedagogy have been framed keeping in view the contemporary standard and expectations.  Placement and internship are adequately facilitated.
+
+
+# School of Law, SRMIST, being a citadel of Legal education is known for its state of art green campus emphasizes on quality education of global standards through unique curriculum and pedagogy duly delivered by highly qualified, experienced and committed faculty members along with a rich information centre with all kind of resources. Special attention is given towards technical skills, information technology and infrastructure.
+
+
+>> career and P: The Career Center in SRM Institute of Science and Technology plays a vital role in making SRM a favored destination for many national and international organizations to recruit fresh talent nurtured at the Institute. Continuous institute-industry interaction, pre-joining learning initiatives, participating in industrial exhibitions, fairs, seminars to promote useful interaction with the industries and alumni activities are some of the initiatives of Placement Office. The excellent infrastructure of the Career Center facilitates activities like preplacement talks, written tests, group discussions, and interviews as per the requirements of the recruiting organizations.
+
+--School of Law Dean :Prof (Dr.) C. A. Gurudath
+
+
+>College Name: Srm University KTR
+>School Of Law
+>Post Graduate:LLM
+>Department:Criminal Law and Criminal Justice
+>Duration: 1Years
+>Annual Fees: 85,000
